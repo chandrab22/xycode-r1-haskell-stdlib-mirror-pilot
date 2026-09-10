@@ -1,0 +1,13 @@
+{
+    "language":  "Haskell",
+    "library":  "ghc-boot",
+    "runtime_version":  "9.12.4",
+    "library_version":  "9.12.4",
+    "official_repository":  "https://gitlab.haskell.org/ghc/ghc",
+    "official_repository_version_link":  "https://gitlab.haskell.org/ghc/ghc/-/tree/ghc-9.12.4-release",
+    "official_source_tree":  "https://hackage-content.haskell.org/package/ghc-boot-9.12.4/src/",
+    "official_source_archive":  "https://hackage-content.haskell.org/package/ghc-boot-9.12.4/ghc-boot-9.12.4.tar.gz",
+    "official_html_documentation":  "https://hackage.haskell.org/package/ghc-boot-9.12.4/docs/",
+    "mirror_branch":  "stdlib/haskell/9.12.4/ghc-boot/9.12.4",
+    "mirror_kind":  "derived_package_version_branch_for_r1"
+}
